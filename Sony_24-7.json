@@ -1,0 +1,244 @@
+[
+  {
+    "tvg_id": "set-hd.sonyliv",
+    "tvg_name": "SET HD",
+    "group_title": "SonyLIV Entertainment",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "sab-hd.sonyliv",
+    "tvg_name": "Sony SAB HD",
+    "group_title": "SonyLIV Entertainment",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY SAB HD_WHITE.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "marathi.sonyliv",
+    "tvg_name": "Sony Marathi",
+    "group_title": "SonyLIV Entertainment",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "pal.sonyliv",
+    "tvg_name": "Sony Pal",
+    "group_title": "SonyLIV Entertainment",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY PAL.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "aath.sonyliv",
+    "tvg_name": "Sony Aath",
+    "group_title": "SonyLIV Entertainment",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY AATH.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "yay.sonyliv",
+    "tvg_name": "Sony Yay",
+    "group_title": "SonyLIV Kids",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY YAY.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "max-hd.sonyliv",
+    "tvg_name": "Sony MAX HD",
+    "group_title": "SonyLIV Movies",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "max.sonyliv",
+    "tvg_name": "Sony MAX",
+    "group_title": "SonyLIV Movies",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "max2.sonyliv",
+    "tvg_name": "Sony MAX 2",
+    "group_title": "SonyLIV Movies",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011908/MAX2/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "wah.sonyliv",
+    "tvg_name": "Sony WAH",
+    "group_title": "SonyLIV Movies",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "pix-hd.sonyliv",
+    "tvg_name": "Sony PIX HD",
+    "group_title": "SonyLIV Movies",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/PIX HD_WHITE.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten1-hd.sonyliv",
+    "tvg_name": "Sony Sports Ten 1 HD",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011747/TEN1HD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten1.sonyliv",
+    "tvg_name": "Sony Sports Ten 1",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011739/TEN1SD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten2-hd.sonyliv",
+    "tvg_name": "Sony Sports Ten 2 HD",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2020434/TEN2HD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten2.sonyliv",
+    "tvg_name": "Sony Sports Ten 2",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2020590/TEN2SD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten3-hd.sonyliv",
+    "tvg_name": "Sony Sports Ten 3 HD",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten3.sonyliv",
+    "tvg_name": "Sony Sports Ten 3",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2020592/TEN3SD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten4-hd.sonyliv",
+    "tvg_name": "Sony Sports Ten 4 HD",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2020589/ten4hd/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten4.sonyliv",
+    "tvg_name": "Sony Sports Ten 4",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2020437/ten4sd/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten5-hd.sonyliv",
+    "tvg_name": "Sony Sports Ten 5 HD",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2020593/SONYSIXHD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten5.sonyliv",
+    "tvg_name": "Sony Sports Ten 5",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2020594/SONYSIXSD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "bbc-earth.sonyliv",
+    "tvg_name": "Sony BBC Earth HD",
+    "group_title": "SonyLIV Infotainment",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+    "url": "https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  }
+]
