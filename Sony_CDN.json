@@ -1,0 +1,244 @@
+[
+  {
+    "tvg_id": "set-hd.sonyliv",
+    "tvg_name": "SET HD",
+    "group_title": "SonyLIV Entertainment",
+    "logo": "https://i.postimg.cc/zXgMfMMw/sethd.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "sab-hd.sonyliv",
+    "tvg_name": "Sony SAB HD",
+    "group_title": "SonyLIV Entertainment",
+    "logo": "https://i.postimg.cc/LhKxf97t/sonysabhd.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "marathi.sonyliv",
+    "tvg_name": "Sony Marathi",
+    "group_title": "SonyLIV Entertainment",
+    "logo": "https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "pal.sonyliv",
+    "tvg_name": "Sony Pal",
+    "group_title": "SonyLIV Entertainment",
+    "logo": "https://i.postimg.cc/hjYyDb13/sonypal.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "aath.sonyliv",
+    "tvg_name": "Sony Aath",
+    "group_title": "SonyLIV Entertainment",
+    "logo": "https://i.postimg.cc/bY12WVTm/SONY-AATH.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "yay.sonyliv",
+    "tvg_name": "Sony Yay",
+    "group_title": "SonyLIV Kids",
+    "logo": "https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "max-hd.sonyliv",
+    "tvg_name": "Sony MAX HD",
+    "group_title": "SonyLIV Movies",
+    "logo": "https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "max.sonyliv",
+    "tvg_name": "Sony MAX",
+    "group_title": "SonyLIV Movies",
+    "logo": "https://i.postimg.cc/43JFB33w/sonymax.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "max2.sonyliv",
+    "tvg_name": "Sony MAX 2",
+    "group_title": "SonyLIV Movies",
+    "logo": "https://i.postimg.cc/vm32jdgy/sonymax2.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "wah.sonyliv",
+    "tvg_name": "Sony WAH",
+    "group_title": "SonyLIV Movies",
+    "logo": "https://i.postimg.cc/HxJG9LSR/sonywah.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "pix-hd.sonyliv",
+    "tvg_name": "Sony PIX HD",
+    "group_title": "SonyLIV Movies",
+    "logo": "https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten1-hd.sonyliv",
+    "tvg_name": "Sony Ten 1 HD",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten1.sonyliv",
+    "tvg_name": "Sony Ten 1",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten2-hd.sonyliv",
+    "tvg_name": "Sony Ten 2 HD",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten2.sonyliv",
+    "tvg_name": "Sony Ten 2",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://i.postimg.cc/027s4b8q/sonysportsten2.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten3-hd.sonyliv",
+    "tvg_name": "Sony Ten 3 HD",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten3.sonyliv",
+    "tvg_name": "Sony Ten 3",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten4-hd.sonyliv",
+    "tvg_name": "Sony Ten 4 HD",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten4.sonyliv",
+    "tvg_name": "Sony Ten 4",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten5-hd.sonyliv",
+    "tvg_name": "Sony Ten 5 HD",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "ten5.sonyliv",
+    "tvg_name": "Sony Ten 5",
+    "group_title": "SonyLIV Sports",
+    "logo": "https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  },
+  {
+    "tvg_id": "bbc-earth.sonyliv",
+    "tvg_name": "BBC Earth HD",
+    "group_title": "SonyLIV Infotainment",
+    "logo": "https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8",
+    "headers": {
+      "Referrer": "https://www.sonyliv.com/",
+      "Origin": "https://www.sonyliv.com"
+    }
+  }
+]
